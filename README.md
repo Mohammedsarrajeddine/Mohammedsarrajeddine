@@ -107,8 +107,8 @@ console.log("Always ready to learn and build awesome products!");
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammedsarrajeddine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedsarrajeddine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="top languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Mohammedsarrajeddine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="stats graph" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Mohammedsarrajeddine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="top languages" />
 </div>
 <br>
 <div align="center">
