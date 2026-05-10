@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,45:0fa37f,100:2d6cdf&height=220&section=header&text=Mohammed%20Sarraj%20Eddine&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=D%C3%A9veloppeur%20Full-Stack%20%C2%B7%20AI%20Engineering%20%C2%B7%20SaaS%20Builder&descSize=16&descAlignY=58&descColor=ffffff&animation=fadeIn" alt="Mohammed Sarraj Eddine header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,45:0fa37f,100:2d6cdf&height=220&section=header&text=Mohammed%20Sarraj%20Eddine&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=D%C3%A9veloppeur%20Full-Stack%20%C2%B7%20AI%20Engineering%20%C2%B7%20Automation&descSize=16&descAlignY=58&descColor=ffffff&animation=fadeIn" alt="Mohammed Sarraj Eddine header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=0FA37F&center=true&vCenter=true&width=780&height=42&lines=D%C3%A9veloppeur+Full-Stack+orient%C3%A9+AI+Engineering;Full-Stack+Developer+%7C+AI+Engineering;FastAPI+%7C+React+%7C+Django+%7C+Spring+Boot+%7C+PostgreSQL;RAG+%7C+LLM+Orchestration+%7C+OCR+%7C+WebSockets;Based+in+Rabat%2C+Morocco" alt="Typing introduction" />
 
