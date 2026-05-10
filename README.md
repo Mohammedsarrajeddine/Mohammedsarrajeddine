@@ -26,8 +26,8 @@
 
 | Period | Role | Company/Context | Description |
 | :--- | :--- | :--- | :--- |
-| **Oct 2025 - Present** | AI Integrator | Learning IT Consulting - Rabat | Building an AI-integrated ERP SaaS platform, AI assistants, AI agents, business chatbots, and model API integrations for analysis and decision support. |
-| **2025 - 2026** | Full-Stack & AI Engineering Intern | Projet PFF | Developed a WhatsApp AI Assistant for laboratories using FastAPI, React, PostgreSQL & pgvector. |
+| **2025 - Present** | Full-Stack & AI Engineering Intern | Rabat Zaer Medical Lab (Projet PFF) | Developed a complete WhatsApp AI Assistant for laboratories using FastAPI, React, PostgreSQL, pgvector, and OCR workflows. |
+| **2025 - 2025** | AI Integrator | Learning IT Consulting | Built AI assistants, business chatbots, and model API integrations for analysis and decision support. |
 | **2023 - 2025** | Logistics Data Specialist | Booking-Container | Automated logistics data collection, structured workflows, and built Power BI reporting dashboards. |
 | **2018 - 2022** | Sales & Technical Support | IT Store | Managed customer consulting, hardware support, and CRM tracking. |
 
@@ -36,12 +36,8 @@
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **Rabat Zaer Medical Lab** | A complete AI-driven automation platform seamlessly integrating patient interactions via WhatsApp. Features OCR, RAG, WebSockets, and Gemini. | ![FastAPI](https://img.shields.io/badge/-FastAPI-1e2329?style=flat) ![React](https://img.shields.io/badge/-React-1e2329?style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-1e2329?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e2329?style=flat) ![Docker](https://img.shields.io/badge/-Docker-1e2329?style=flat) | ![2026 In progress](https://img.shields.io/badge/2026-In_progress-00B272?color=00B272&labelColor=333333&style=flat) |
-| **SyndicAI-SSP** | Integrated real-estate SaaS for Moroccan property management with promoter, syndic, and co-owner portals, AI chatbot, and WhatsApp integration. | ![FastAPI](https://img.shields.io/badge/-FastAPI-1e2329?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-1e2329?style=flat) ![LangChain](https://img.shields.io/badge/-LangChain-1e2329?style=flat) ![Groq](https://img.shields.io/badge/-Groq-1e2329?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e2329?style=flat) | ![2026 In progress](https://img.shields.io/badge/2026-In_progress-00B272?color=00B272&labelColor=333333&style=flat) |
-| **AI-Integrated ERP SaaS** | Modular construction-sector ERP covering projects, HR, procurement, inventory, finance, CRM, document management, and embedded AI support. | ![Django](https://img.shields.io/badge/-Django-1e2329?style=flat) ![React](https://img.shields.io/badge/-React-1e2329?style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1e2329?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e2329?style=flat) | ![2025 building](https://img.shields.io/badge/2025-building-D4A017?color=D4A017&labelColor=333333&style=flat) |
-| **Interactive Blog** | Dynamic MERN application with authentication, real-time content workflows, and user management features. | ![React](https://img.shields.io/badge/-React-1e2329?style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-1e2329?style=flat) ![Express](https://img.shields.io/badge/-Express-1e2329?style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-1e2329?style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1e2329?style=flat) | ![2025 completed](https://img.shields.io/badge/2025-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
-| **E-commerce Site** | Commerce application with product management, users, cart workflows, and database-backed application logic. | ![PHP](https://img.shields.io/badge/-PHP-1e2329?style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-1e2329?style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-1e2329?style=flat) ![Sass](https://img.shields.io/badge/-Sass-1e2329?style=flat) | ![2024 completed](https://img.shields.io/badge/2024-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
-| **CFQMA Website** | Responsive company website focused on accessibility, structured content, and a smooth cross-device experience. | ![React](https://img.shields.io/badge/-React-1e2329?style=flat) ![CSS](https://img.shields.io/badge/-CSS-1e2329?style=flat) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1e2329?style=flat) ![JSON](https://img.shields.io/badge/-JSON-1e2329?style=flat) | ![2024 delivered](https://img.shields.io/badge/2024-delivered-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
-| **Coaching Website** | Responsive showcase website with service presentation, contact forms, and a clean HTML, CSS, and JavaScript structure. | ![HTML](https://img.shields.io/badge/-HTML-1e2329?style=flat) ![CSS](https://img.shields.io/badge/-CSS-1e2329?style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-1e2329?style=flat) ![Responsive](https://img.shields.io/badge/-Responsive-1e2329?style=flat) | ![2022 completed](https://img.shields.io/badge/2022-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
+| **Transport Cost Management** | Full-stack web application for team budget management with dynamic dashboards and PDF/Excel document exports. | ![React](https://img.shields.io/badge/-React-1e2329?style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-1e2329?style=flat) ![FastAPI](https://img.shields.io/badge/-FastAPI-1e2329?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e2329?style=flat) | ![2025 completed](https://img.shields.io/badge/2025-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
+| **Logistics Data Automation** | Automated web scraping and BI dashboarding for maritime logistics, tracking operational costs, routes, and performances. | ![Python](https://img.shields.io/badge/-Python-1e2329?style=flat) ![Selenium](https://img.shields.io/badge/-Selenium-1e2329?style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-1e2329?style=flat) ![PowerBI](https://img.shields.io/badge/-PowerBI-1e2329?style=flat) | ![2023 completed](https://img.shields.io/badge/2023-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
 
 ## 🛠️ Tech Stack
 
@@ -49,10 +45,10 @@
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=flat&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00E5FF?style=flat&logoColor=black) ![AI Agents](https://img.shields.io/badge/AI%20Agents-4B8BBE?style=flat&logoColor=white) ![Chatbots](https://img.shields.io/badge/Chatbots-FF6C37?style=flat&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=flat&logo=n8n&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-f36625?style=flat) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black)
 
 ### Frontend
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,figma&theme=dark" /></a>
 
 ### Backend
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express,laravel,php&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,java,go,spring,c,cpp,python,fastapi,django,flask,nodejs,express,laravel,php&theme=dark" /></a>
 
 ### Databases & Data
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&theme=dark" /></a>
@@ -66,30 +62,39 @@
 
 ## 🎯 Current Focus
 
-```java
-class MohammedProfile {
-    String[] learning = {
-        "Applied AI with Tamheen / GIZ",
-        "AI agents and business assistants",
-        "RAG systems and model API integration",
-        "Production-ready SaaS architecture",
-        "Docker, CI/CD, Linux, and automation workflows"
-    };
+```rust
+struct Profile {
+    learning: Vec<&'static str>,
+    building: std::collections::HashMap<&'static str, &'static str>,
+}
 
-    java.util.Map<String, String> building = java.util.Map.of(
-        "SaaS", "ERP and property-management platforms",
-        "AI", "Chatbots, assistants, analysis, and decision-support tools",
-        "Full Stack", "Responsive UIs, REST APIs, and reliable databases"
-    );
+impl Profile {
+    fn new() -> Self {
+        let mut building = std::collections::HashMap::new();
+        building.insert("SaaS", "ERP and property-management platforms");
+        building.insert("AI", "Chatbots, assistants, and analysis tools");
+        building.insert("Full Stack", "Responsive UIs, REST APIs, and databases");
 
-    public String status() {
-        return "Open to internships, junior roles, and AI/full-stack collaboration.";
+        Profile {
+            learning: vec![
+                "Applied AI with Tamheen / GIZ",
+                "AI agents and business assistants",
+                "RAG systems and model API integration",
+                "Production-ready SaaS architecture",
+                "Rust, Docker, CI/CD, and Linux",
+            ],
+            building,
+        }
     }
 
-    public static void main(String[] args) {
-        MohammedProfile me = new MohammedProfile();
-        System.out.println(me.status());
+    fn status(&self) -> &'static str {
+        "Open to internships, junior roles, and AI/full-stack collaboration."
     }
+}
+
+fn main() {
+    let mohammed = Profile::new();
+    println!("{}", mohammed.status());
 }
 ```
 
