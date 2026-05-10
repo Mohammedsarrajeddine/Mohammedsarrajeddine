@@ -107,8 +107,11 @@ console.log("Always ready to learn and build awesome products!");
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Mohammedsarrajeddine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="stats graph" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Mohammedsarrajeddine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammedsarrajeddine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedsarrajeddine&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
