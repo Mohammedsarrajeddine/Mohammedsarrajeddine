@@ -1,15 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mohammed%20Sarraj%20Eddine&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Software%20Engineer&descAlignY=51&descAlign=62" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammedsarrajeddine&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/Mohammedsarrajeddine">
-    <img src="https://img.shields.io/github/followers/Mohammedsarrajeddine?label=Followers&style=social" alt="Followers" />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,45:0fa37f,100:2d6cdf&height=220&section=header&text=Mohammed%20Sarraj%20Eddine&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=D%C3%A9veloppeur%20Full-Stack%20%C2%B7%20AI%20Engineering%20%C2%B7%20SaaS%20Builder&descSize=16&descAlignY=58&descColor=ffffff&animation=fadeIn" alt="Mohammed Sarraj Eddine header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=0FA37F&center=true&vCenter=true&width=780&height=42&lines=D%C3%A9veloppeur+Full-Stack+orient%C3%A9+AI+Engineering;Full-Stack+Developer+%7C+AI+Engineering;FastAPI+%7C+React+%7C+Django+%7C+Spring+Boot+%7C+PostgreSQL;RAG+%7C+LLM+Orchestration+%7C+OCR+%7C+WebSockets;Based+in+Rabat%2C+Morocco" alt="Typing introduction" />
 
 <br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0fa37f?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-siraje-eddine-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarraj-eddine)
+[![GitHub](https://img.shields.io/badge/GitHub-Mohammedsarrajeddine-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammedsarrajeddine)
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simoserrajeddinepro@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mohammedsarrajeddine&style=flat-square&color=0fa37f&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Mohammedsarrajeddine?style=flat-square&color=0fa37f&label=FOLLOWERS)
+![Focus](https://img.shields.io/badge/focus-AI%20%2B%20Full--Stack-2d6cdf?style=flat-square)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -84,18 +94,40 @@
 
 ## 🎯 Current Focus
 
-```yaml
-focus:
-  - AI-powered SaaS platforms
-  - Automation workflows and model API integration
-  - fastapi django spring boot applications and REST APIs
-  - Responsive, accessible web interfaces
+```rust
+struct MohammedProfile {
+    learning: Vec<&'static str>,
+    building: HashMap<&'static str, &'static str>,
+}
 
-open_to:
-  - internships
-  - junior developer roles
-  - AI integration projects
-  - full-stack collaboration
+impl MohammedProfile {
+    fn init() -> Self {
+        Self {
+            learning: vec![
+                "Applied AI with Tamheen / GIZ",
+                "LLM orchestration, RAG pipelines, and intent classification",
+                "WhatsApp Cloud API webhooks and real-time WebSockets",
+                "OCR document processing for medical prescriptions",
+                "Production deployments with Docker, Nginx, and CI/CD",
+            ],
+
+            building: HashMap::from([
+                ("Lab Automation", "AI-driven WhatsApp assistant for medical laboratories"),
+                ("Data Pipelines", "ETL ingestion, semantic search, and catalogue scraping"),
+                ("Full Stack", "FastAPI + React/TS dashboards with pgvector and JWT auth"),
+            ]),
+        }
+    }
+
+    fn status(&self) -> &'static str {
+        "Open to internships, junior roles, and AI/full-stack collaboration."
+    }
+}
+
+fn main() {
+    let me = MohammedProfile::init();
+    println!("{}", me.status());
+}
 ```
 
 ## 🎓 Education
@@ -125,7 +157,7 @@ open_to:
 | :--- | :--- |
 | Arabic | Native |
 | French | Intermediate |
-| English | Intermediate |
+| English | Advanced Technical |
 
 ## 💬 Let's Connect
 
