@@ -35,72 +35,34 @@
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Rabat Zaer Medical Lab** | A complete AI-driven automation platform seamlessly integrating patient interactions via WhatsApp. Features OCR, RAG, WebSockets, and Gemini. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,react,ts,postgres,docker&theme=dark" /></a> | ![2026 In progress](https://img.shields.io/badge/2026-In_progress-00B272?color=00B272&labelColor=333333&style=flat) |
-| **SyndicAI-SSP** | Integrated real-estate SaaS for Moroccan property management with promoter, syndic, and co-owner portals, AI chatbot, and WhatsApp integration. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,python,postgres&theme=dark" /></a> | ![2026 In progress](https://img.shields.io/badge/2026-In_progress-00B272?color=00B272&labelColor=333333&style=flat) |
-| **AI-Integrated ERP SaaS** | Modular construction-sector ERP covering projects, HR, procurement, inventory, finance, CRM, document management, and embedded AI support. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,react,tailwind,postgres&theme=dark" /></a> | ![2025 building](https://img.shields.io/badge/2025-building-D4A017?color=D4A017&labelColor=333333&style=flat) |
-| **Interactive Blog** | Dynamic MERN application with authentication, real-time content workflows, and user management features. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark" /></a> | ![2025 completed](https://img.shields.io/badge/2025-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
-| **E-commerce Site** | Commerce application with product management, users, cart workflows, and database-backed application logic. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,mysql,js,sass&theme=dark" /></a> | ![2024 completed](https://img.shields.io/badge/2024-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
-| **CFQMA Website** | Responsive company website focused on accessibility, structured content, and a smooth cross-device experience. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,css,bootstrap&theme=dark" /></a> | ![2024 delivered](https://img.shields.io/badge/2024-delivered-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
-| **Coaching Website** | Responsive showcase website with service presentation, contact forms, and a clean HTML, CSS, and JavaScript structure. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /></a> | ![2022 completed](https://img.shields.io/badge/2022-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
+| **Rabat Zaer Medical Lab** | A complete AI-driven automation platform seamlessly integrating patient interactions via WhatsApp. Features OCR, RAG, WebSockets, and Gemini. | ![FastAPI](https://img.shields.io/badge/-FastAPI-1e2329?style=flat) ![React](https://img.shields.io/badge/-React-1e2329?style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-1e2329?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e2329?style=flat) ![Docker](https://img.shields.io/badge/-Docker-1e2329?style=flat) | ![2026 In progress](https://img.shields.io/badge/2026-In_progress-00B272?color=00B272&labelColor=333333&style=flat) |
+| **SyndicAI-SSP** | Integrated real-estate SaaS for Moroccan property management with promoter, syndic, and co-owner portals, AI chatbot, and WhatsApp integration. | ![FastAPI](https://img.shields.io/badge/-FastAPI-1e2329?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-1e2329?style=flat) ![LangChain](https://img.shields.io/badge/-LangChain-1e2329?style=flat) ![Groq](https://img.shields.io/badge/-Groq-1e2329?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e2329?style=flat) | ![2026 In progress](https://img.shields.io/badge/2026-In_progress-00B272?color=00B272&labelColor=333333&style=flat) |
+| **AI-Integrated ERP SaaS** | Modular construction-sector ERP covering projects, HR, procurement, inventory, finance, CRM, document management, and embedded AI support. | ![Django](https://img.shields.io/badge/-Django-1e2329?style=flat) ![React](https://img.shields.io/badge/-React-1e2329?style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1e2329?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e2329?style=flat) | ![2025 building](https://img.shields.io/badge/2025-building-D4A017?color=D4A017&labelColor=333333&style=flat) |
+| **Interactive Blog** | Dynamic MERN application with authentication, real-time content workflows, and user management features. | ![React](https://img.shields.io/badge/-React-1e2329?style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-1e2329?style=flat) ![Express](https://img.shields.io/badge/-Express-1e2329?style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-1e2329?style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1e2329?style=flat) | ![2025 completed](https://img.shields.io/badge/2025-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
+| **E-commerce Site** | Commerce application with product management, users, cart workflows, and database-backed application logic. | ![PHP](https://img.shields.io/badge/-PHP-1e2329?style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-1e2329?style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-1e2329?style=flat) ![Sass](https://img.shields.io/badge/-Sass-1e2329?style=flat) | ![2024 completed](https://img.shields.io/badge/2024-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
+| **CFQMA Website** | Responsive company website focused on accessibility, structured content, and a smooth cross-device experience. | ![React](https://img.shields.io/badge/-React-1e2329?style=flat) ![CSS](https://img.shields.io/badge/-CSS-1e2329?style=flat) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1e2329?style=flat) ![JSON](https://img.shields.io/badge/-JSON-1e2329?style=flat) | ![2024 delivered](https://img.shields.io/badge/2024-delivered-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
+| **Coaching Website** | Responsive showcase website with service presentation, contact forms, and a clean HTML, CSS, and JavaScript structure. | ![HTML](https://img.shields.io/badge/-HTML-1e2329?style=flat) ![CSS](https://img.shields.io/badge/-CSS-1e2329?style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-1e2329?style=flat) ![Responsive](https://img.shields.io/badge/-Responsive-1e2329?style=flat) | ![2022 completed](https://img.shields.io/badge/2022-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
 
 ## 🛠️ Tech Stack
 
 ### AI & Automation
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FFFFFF?style=for-the-badge&logo=openai&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00E5FF?style=for-the-badge&logo=google-bard&logoColor=black)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Chatbots](https://img.shields.io/badge/Chatbots-FF6C37?style=for-the-badge&logo=botframework&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=data-version-control&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-f36625?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=flat&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00E5FF?style=flat&logoColor=black) ![AI Agents](https://img.shields.io/badge/AI%20Agents-4B8BBE?style=flat&logoColor=white) ![Chatbots](https://img.shields.io/badge/Chatbots-FF6C37?style=flat&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=flat&logo=n8n&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-f36625?style=flat) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma&theme=dark" /></a>
 
 ### Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express,laravel,php&theme=dark" /></a>
 
 ### Databases & Data
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&theme=dark" /></a>
+<br>
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=flat&logo=microsoft-sql-server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 
 ### DevOps & Workflow
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx,vscode,postman&theme=dark" /></a>
 <br>
-![CI/CD](https://img.shields.io/badge/CI%2FCID-000000?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-5C6BC0?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-00A9E0?style=for-the-badge)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCID-000000?style=flat) ![Agile](https://img.shields.io/badge/Agile-5C6BC0?style=flat) ![Scrum](https://img.shields.io/badge/Scrum-00A9E0?style=flat) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 ## 🎯 Current Focus
 
