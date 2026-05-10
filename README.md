@@ -13,14 +13,36 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Advanced Laboratory Automation & Web Applications**
-- 🌱 I’m currently learning **System Architecture, Cloud Deployment, and Rust**
-- 👯 I’m looking to collaborate on **Innovative Open Source Projects**
-- 🤔 I’m looking for help with **Scaling Backend Infrastructure**
-- 💬 Ask me about **React, Node.js, Python, UI/UX Design**
-- 📫 How to reach me: **[simoserrajeddinepro@gmail.com](mailto:simoserrajeddinepro@gmail.com)** or **+212 637 572 203**
-- ⚡ Fun fact: **I turn coffee into scalable code!**
-- 🌍 I'm based in **Rabat, Morocco**
+<div align="center">
+  <blockquote>
+    <b>AI Engineering Intern & Full-Stack Developer</b> passionate about architecting intelligent, high-performance systems. I bridge the gap between complex AI capabilities (LLMs, RAG, OCR) and seamless user experiences.
+  </blockquote>
+</div>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Current Trajectory</h3>
+      <br>
+      <ul>
+        <li>🔭 <b>Building:</b> AI-driven Lab Automation (WebSockets, OCR, Agents) & ERP SaaS.</li>
+        <li>🌱 <b>Mastering:</b> System Architecture, Rust, and Production-Ready Deployments.</li>
+        <li>💬 <b>Ask me about:</b> Clean Architecture, FastAPI, React/TS, pgvector, and LLM Orchestration.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Quick Facts</h3>
+      <br>
+      <ul>
+        <li>📍 <b>Location:</b> Rabat, Morocco</li>
+        <li>💡 <b>Superpower:</b> Turning complex requirements into scalable, asynchronous workflows!</li>
+        <li>🤝 <b>Looking to collaborate on:</b> Meaningful AI integration projects and scalable full-stack applications.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 💼 Experience
 
@@ -62,40 +84,18 @@
 
 ## 🎯 Current Focus
 
-```rust
-struct Profile {
-    learning: Vec<&'static str>,
-    building: std::collections::HashMap<&'static str, &'static str>,
-}
+```yaml
+focus:
+  - AI-powered SaaS platforms
+  - Automation workflows and model API integration
+  - fastapi django spring boot applications and REST APIs
+  - Responsive, accessible web interfaces
 
-impl Profile {
-    fn new() -> Self {
-        let mut building = std::collections::HashMap::new();
-        building.insert("SaaS", "ERP and property-management platforms");
-        building.insert("AI", "Chatbots, assistants, and analysis tools");
-        building.insert("Full Stack", "Responsive UIs, REST APIs, and databases");
-
-        Profile {
-            learning: vec![
-                "Applied AI with Tamheen / GIZ",
-                "AI agents and business assistants",
-                "RAG systems and model API integration",
-                "Production-ready SaaS architecture",
-                "Rust, Docker, CI/CD, and Linux",
-            ],
-            building,
-        }
-    }
-
-    fn status(&self) -> &'static str {
-        "Open to internships, junior roles, and AI/full-stack collaboration."
-    }
-}
-
-fn main() {
-    let mohammed = Profile::new();
-    println!("{}", mohammed.status());
-}
+open_to:
+  - internships
+  - junior developer roles
+  - AI integration projects
+  - full-stack collaboration
 ```
 
 ## 🎓 Education
@@ -119,20 +119,32 @@ fn main() {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammedsarrajeddine&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
+## 🌍 Languages
+
+| Language | Level |
+| :--- | :--- |
+| Arabic | Native |
+| French | Intermediate |
+| English | Intermediate |
+
 ## 💬 Let's Connect
 
-<div align="center">
-  <a href="https://linkedin.com/in/sarraj-eddine" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:simoserrajeddinepro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/212637572203" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</div>
+| Contact | Link |
+| :--- | :--- |
+| Email | [simoserrajeddinepro@gmail.com](mailto:simoserrajeddinepro@gmail.com) |
+| Phone | `+212 637 572 203` |
+| LinkedIn | [linkedin.com/in/sarraj-eddine](https://linkedin.com/in/sarraj-eddine) |
+| GitHub | [Mohammedsarrajeddine](https://github.com/Mohammedsarrajeddine) |
+| Portfolio | [mohamed-siraje-eddine-portfolio.vercel.app](https://mohamed-siraje-eddine-portfolio.vercel.app) |
+
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <b>Available for internships, junior developer roles, AI integration projects, and meaningful full-stack collaboration.</b>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Build%20practical%20software.%20Integrate%20AI%20with%20purpose.&fontSize=22&fontAlignY=75" width="100%"/>
 </div>
