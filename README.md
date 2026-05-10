@@ -59,7 +59,7 @@
 | Period | Role | Company/Context | Description |
 | :--- | :--- | :--- | :--- |
 | **2025 - Present** | Full-Stack & AI Engineering Intern | Rabat Zaer Medical Lab (Projet PFF) | Developed a complete WhatsApp AI Assistant for laboratories using FastAPI, React, PostgreSQL, pgvector, and OCR workflows. |
-| **2025 - 2025** | AI Integrator | Learning IT Consulting | Built AI assistants, business chatbots, and model API integrations for analysis and decision support. |
+| **2025 - 2026** | AI Integrator | Learning IT Consulting | Built AI assistants, business chatbots, and model API integrations for analysis and decision support. |
 | **2023 - 2025** | Logistics Data Specialist | Booking-Container | Automated logistics data collection, structured workflows, and built Power BI reporting dashboards. |
 | **2018 - 2022** | Sales & Technical Support | IT Store | Managed customer consulting, hardware support, and CRM tracking. |
 
