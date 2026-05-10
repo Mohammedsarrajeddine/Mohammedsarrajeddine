@@ -33,25 +33,15 @@
 
 ## 🚀 Featured Projects
 
-### 🏗️ AI-Integrated ERP SaaS
-Modular construction-sector ERP covering projects, HR, procurement, inventory, finance, CRM, document management, and embedded AI support.
-- **Tech Stack:** Django, React, TailwindCSS, PostgreSQL.
-
-### 🔬 [Projet PFF] WhatsApp AI Assistant for Laboratories
-A complete AI-driven automation platform for medical laboratories, seamlessly integrating patient interactions via WhatsApp with human operator supervision.
-- **AI & LLM Integrations:** Integrated OpenAI-compatible APIs, **Gemini**, Groq, and DeepSeek with robust intent classification and multi-lingual fallback mechanisms.
-- **RAG Architecture:** Built a secure knowledge base for semantic search against an external analysis catalog using **pgvector**, enforcing strict pricing non-disclosure rules.
-- **OCR Integration:** Automated extraction and processing of medical prescriptions (ordonnances) from images and PDFs.
-- **Advanced Workflows:** Developed complex state-machine workflows bridging AI chatbots and human operators with real-time **WebSockets** notifications.
-- **Tech Stack:** FastAPI (Clean Architecture), React, TypeScript, PostgreSQL, Docker Compose, Meta WhatsApp Cloud API.
-
-### 💰 Transport Cost Management
-Full-stack web application for team budget management with dynamic dashboards and document exports.
-- **Tech Stack:** React, TypeScript, Vite, FastAPI, PostgreSQL, JWT, Vercel, Render.
-
-### 🚢 Logistics Data Automation
-Automated web scraping and BI dashboarding for maritime logistics, tracking operational costs and routes.
-- **Tech Stack:** Python, Selenium, Pandas, Power BI.
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Rabat Zaer Medical Lab** | A complete AI-driven automation platform seamlessly integrating patient interactions via WhatsApp. Features OCR, RAG, WebSockets, and Gemini. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,react,ts,postgres,docker&theme=dark" /></a> | ![2026 In progress](https://img.shields.io/badge/2026-In_progress-00B272?color=00B272&labelColor=333333&style=flat) |
+| **SyndicAI-SSP** | Integrated real-estate SaaS for Moroccan property management with promoter, syndic, and co-owner portals, AI chatbot, and WhatsApp integration. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,python,postgres&theme=dark" /></a> | ![2026 In progress](https://img.shields.io/badge/2026-In_progress-00B272?color=00B272&labelColor=333333&style=flat) |
+| **AI-Integrated ERP SaaS** | Modular construction-sector ERP covering projects, HR, procurement, inventory, finance, CRM, document management, and embedded AI support. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,react,tailwind,postgres&theme=dark" /></a> | ![2025 building](https://img.shields.io/badge/2025-building-D4A017?color=D4A017&labelColor=333333&style=flat) |
+| **Interactive Blog** | Dynamic MERN application with authentication, real-time content workflows, and user management features. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark" /></a> | ![2025 completed](https://img.shields.io/badge/2025-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
+| **E-commerce Site** | Commerce application with product management, users, cart workflows, and database-backed application logic. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,mysql,js,sass&theme=dark" /></a> | ![2024 completed](https://img.shields.io/badge/2024-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
+| **CFQMA Website** | Responsive company website focused on accessibility, structured content, and a smooth cross-device experience. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,css,bootstrap&theme=dark" /></a> | ![2024 delivered](https://img.shields.io/badge/2024-delivered-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
+| **Coaching Website** | Responsive showcase website with service presentation, contact forms, and a clean HTML, CSS, and JavaScript structure. | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /></a> | ![2022 completed](https://img.shields.io/badge/2022-completed-4CAF50?color=4CAF50&labelColor=333333&style=flat) |
 
 ## 🛠️ Tech Stack
 
