@@ -178,5 +178,5 @@ fn main() {
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,16&height=200&section=footer&text=Build%20Practical.%20Integrate%20with%20Purpose.&fontSize=28&fontAlignY=50&desc=👨‍💻%20Ship%20code%20that%20matters&descSize=15&descAlignY=70&fontColor=000000" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=120&section=footer&text=Build%20practical.%20Integrate%20AI%20with%20purpose.&fontSize=24&fontAlignY=75" width="100%"/>
 </div>
